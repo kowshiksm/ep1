@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.8.0_121" class="java.beans.XMLDecoder"> 
+ <object class="com.fiorano.bc.chat.model.ChatPM"> 
+  <void property="displayName"> 
+   <string></string> 
+  </void> 
+ </object> 
+</java> 
